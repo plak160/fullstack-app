@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe1b20b4-4b73-43d6-ad6e-b012f5f99be4" name="Changes" comment="sonar">
-      <change beforePath="$PROJECT_DIR$/sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
-    </list>
+    <list default="true" id="fe1b20b4-4b73-43d6-ad6e-b012f5f99be4" name="Changes" comment="sonar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +91,7 @@
       <workItem from="1748273122212" duration="864000" />
       <workItem from="1748695190393" duration="1096000" />
       <workItem from="1748696301391" duration="76000" />
-      <workItem from="1748696385010" duration="424000" />
+      <workItem from="1748696385010" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="sonar">
       <option name="closed" value="true" />
@@ -159,7 +157,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748696716891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sonar">
+      <option name="closed" value="true" />
+      <created>1748696815336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748696815336</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sonar">
+      <option name="closed" value="true" />
+      <created>1748696884187</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748696884187</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sonar">
+      <option name="closed" value="true" />
+      <created>1748697013633</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748697013633</updated>
+    </task>
+    <task id="LOCAL-00012" summary="sonar">
+      <option name="closed" value="true" />
+      <created>1748697124682</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748697124682</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
